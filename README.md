@@ -12,7 +12,7 @@ This is my first repo
 
 ## How to use
 
-` console.log('hello, world!');
+`console.log('hello, world!');
 
 ```javascript
 console.log('hello world');
