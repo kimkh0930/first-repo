@@ -17,3 +17,5 @@
    - 이 때 base는 main  compare에 코드리뷰를 받을 branch를 설정한다.
 
 8. 우측에 보이는 Reviewers에 코드리뷰를 해 줄 사람을 추가하고 create pull request를 해준다.
+
+수정
